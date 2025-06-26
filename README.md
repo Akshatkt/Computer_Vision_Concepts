@@ -2,7 +2,7 @@
 
 Welcome to **Computer Vision Concepts**, a curated collection of Python notebooks and scripts demonstrating fundamental to intermediate computer vision techniques using libraries such as **OpenCV**, **NumPy**, and **Matplotlib**.
 
-This repository is designed as a learning resource or reference guide for students, developers, and hobbyists interested in understanding and applying key computer vision concepts.
+This repository is my learning resource for Computer Vision Concepts.
 
 ---
 
